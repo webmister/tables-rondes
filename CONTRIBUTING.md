@@ -33,9 +33,11 @@ Plus sérieusement, voici la procédure :
 
 ## Qui ?
 
-- [:membre](https://twitter.com/:compte-twitter)
+[:membre](https://twitter.com/:compte-twitter) | :rôle |
 
 ```
+
+(où `:rôle` est un emoji parmi 👮 (superviseur) et 🏠 (hôte))
 
 Les membres à inscrire sont évidemment les membres qui ont suscité de l'intérêt à la table ronde durant la partie de doodle.
 
