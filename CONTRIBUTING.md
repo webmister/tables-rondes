@@ -39,6 +39,4 @@ Plus sérieusement, voici la procédure :
 
 (où `:rôle` est un emoji parmi 👮 (superviseur) et 🏠 (hôte))
 
-Les membres à inscrire sont évidemment les membres qui ont suscité de l'intérêt à la table ronde durant la partie de doodle.
-
 Voilà, vous êtes fin prêt(e) à créer votre propre table ronde.
