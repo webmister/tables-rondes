@@ -13,29 +13,7 @@ Plus sérieusement, voici la procédure :
 - Faire un doodle en donnant l'url aux personnes que vous souhaitez faire venir
 - Fermer le doodle une fois la date choisie
 - Incrémenter les markdowns en créant un nouveau fichier markdown
-- Ecrire dans ce markdown (template) :
-
-```
-
-# #:numero-de-la-table-ronde - :titre
-
-## Thème
-
-* :liste-des-sujets-à-aborder
-
-## Quand ?
-
-❯ Le :jour à **:heure**
-
-## Où ?
-
-❯ [:endroit](:lien-vers-carte)
-
-## Qui ?
-
-[:membre](https://twitter.com/:compte-twitter) | :rôle |
-
-```
+- Ecrire dans [ce markdown (template)](template/template.md) :
 
 (où `:rôle` est un emoji parmi 👮 (superviseur) et 🏠 (hôte))
 

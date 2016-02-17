@@ -1,12 +1,17 @@
-# Putain de tables rondes !
+# Tables rondes 🍻
 
-<img height="200" align="right" src="https://raw.githubusercontent.com/putaindecode/tables-rondes/master/resources/beer.jpg">
+> Comme des petits meetups mais où tout le monde discute de développement et de sujets liés, en buvant un coup et en mangeant des chips, bordel.
 
-Régulièrement, on se produit un peu partout en France afin d'évangéliser je ne sais quoi. Faut dire qu'on finit tout le temps bourrés donc bon.
+## À venir
 
-<br><br><br><br><br><br>
+- [JavaScript fatigue](08-JavaScript-Fatigue.md)
 
-- [Putain de table ronde #4 - Présentation de React.js](https://github.com/putaindecode/tables-rondes/blob/master/4.md)
-- [Putain de table ronde #3 - Les bonnes pratiques et organisation CSS/HTML](https://github.com/putaindecode/tables-rondes/blob/master/3.md)
-- [Putain de table ronde #2 - Logs](https://github.com/putaindecode/tables-rondes/blob/master/2.md)
-- [Putain de table ronde #1 - Présentation](https://github.com/putaindecode/tables-rondes/blob/master/1.md)
+## Évenements passés
+
+- [Process Workflow](past-events/07-Process-Workflow.md)
+- [Build Tools](past-events/06-Build-Tools.md)
+- [ES6](past-events/05-ES6.md)
+- [ReactJS](past-events/04-ReactJS.md)
+- [Bonnes Pratiques HTML & CSS](past-events/03-Bonnes-Pratiques-HTML-CSS.md)
+- [Logs](past-events/02-Logs.md)
+- [Présentation](past-events/01-Presentation.md)
