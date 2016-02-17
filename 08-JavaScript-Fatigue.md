@@ -19,3 +19,6 @@ DevFloor, 71 Rue du Faubourg Saint-Martin, Paris.
 
 Membres | Statut |
 --------|:------:|
+@bloodyowl | 🍻
+@kud | 👮
+@revolunet | 🏠
