@@ -24,3 +24,4 @@ Membres | Statut |
 @remitbri | 🏠
 @skinnyfoetusboy | 👾
 @arnaudlimbourg | 🦀
+@webmister | :beer:
