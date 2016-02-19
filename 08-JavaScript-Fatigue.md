@@ -9,11 +9,11 @@
 
 ## 🕘 Quand ?
 
-?
+Lundi 22 Février.
 
 ## 🏠 Où ?
 
-DevFloor, 71 Rue du Faubourg Saint-Martin, Paris.
+Altima Paris: 101 Rue Réaumur 75002 Paris
 
 ## Qui ?
 
@@ -21,4 +21,4 @@ Membres | Statut |
 --------|:------:|
 @bloodyowl | 🍻
 @kud | 👮
-@revolunet | 🏠
+@remitbri | 🏠
